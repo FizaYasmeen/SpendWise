@@ -27,6 +27,10 @@ SpendWise is a full-stack expense tracking web application built with the **MERN
 
 ---
 
+### Prerequisites
+
+- Node.js (v18+ recommended)
+- npm
 - MongoDB Atlas connection URI
 
 ---
