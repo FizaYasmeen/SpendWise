@@ -28,7 +28,7 @@ export default function page() {
         </p>
 
         {/* Save Badge */}
-        <div className="mb-10 flex justify-center">
+        <div className="mb-9 flex justify-center">
           <span className="flex items-center gap-2">
             <svg
               className="w-16 h-11"
