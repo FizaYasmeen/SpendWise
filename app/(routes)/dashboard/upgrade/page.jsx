@@ -24,7 +24,7 @@ export default function page() {
           Our Pricing Plans
         </h2>
         <p className="text-gray-500 text-xl mb-10">
-          7 Days free trial. No credit card required.
+         Just Kidding! There's no pricing 😆
         </p>
 
         {/* Save Badge */}
