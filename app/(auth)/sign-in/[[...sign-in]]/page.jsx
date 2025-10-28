@@ -19,7 +19,7 @@ export default function Page() {
       </div>
 
       {/* Right Pane */}
-      <div className="w-full bg-gray-100 lg:w-1/2 flex items-center justify-center">
+      <div className="w-full bg-white lg:w-1/2 flex items-center justify-center">
         <div className="max-w-md w-full p-6">
           <h1 className="text-3xl font-bold mb-4 text-black-600 text-center">
             Sign In
